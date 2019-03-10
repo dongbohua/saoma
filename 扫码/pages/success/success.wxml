@@ -1,0 +1,8 @@
+<view class="top">
+  <image src="../scanning/image/success.png"></image>
+  <text>听众信息</text>
+  <text>{{studentNumber}}</text>
+</view>
+<button bindtap="click" class="center">入场扫码</button>
+<button bindtap="click0" class="bottom">出场扫码</button>
+<button bindtap='click1' class='bottom'><view>结束扫描</view></button>

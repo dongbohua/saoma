@@ -1,0 +1,32 @@
+image{
+  width: 230rpx;
+  height: 230rpx;
+  margin: 180rpx 260rpx 50rpx;
+}
+text{
+  display: flex;
+  justify-content: center;
+  font-family: Adobe Heiti Std R;
+  color: #78bac5;
+  font-size: 40rpx;
+  margin-bottom: 30rpx;
+}
+.center{
+  margin-top: 150rpx;
+  width: 350rpx;
+  background: #c9e8ed;
+  color: #78bac5;
+  border-style: hidden;
+  border-radius: 50rpx;
+}
+.bottom{
+  margin-top: 50rpx;
+  width: 350rpx;
+  background: #c9e8ed;
+  color: #78bac5;
+  border-style: hidden;
+  border-radius: 50rpx;
+}
+button::after{
+  border: none; 
+}

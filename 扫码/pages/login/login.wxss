@@ -1,0 +1,55 @@
+.login_top{
+  width: 750rpx;
+  height: 531rpx;
+}
+
+.identity {
+  font-size:34rpx;
+  font-family: Adobe Heiti Std R;
+  color: #a1c6e2;
+  margin-left: 15rpx;
+}
+
+.login_container {
+  margin-top: 80rpx;
+}
+
+.login_view {
+  line-height: 90rpx;
+  height: 90rpx;
+  width: 520rpx;
+  margin-bottom: 50rpx;
+  padding: 0 115rpx 0 115rpx;
+}
+
+.login_text {
+  background-color: #e2e2e2;
+  height: 88.2rpx;
+  line-height: 60rpx;
+  font-size: 36rpx;
+  border: 2rpx solid rgb(241, 242, 243);
+  width: 515rpx;
+  border-radius: 50rpx;
+  text-align: center;
+}
+
+.login_lable {
+  float: left;
+  font-size: 24rpx;
+  width: 80rpx;
+}
+
+.login_button {
+  width: 150px;
+  background:  #78bac5;
+  color: #fff;
+  border-radius: 50rpx;
+}
+
+.qinli {
+  font-size: 30rpx;
+  color: #cccccc;
+  position: absolute;
+  bottom: 0rpx;
+  left: 304rpx;
+}

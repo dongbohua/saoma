@@ -1,0 +1,30 @@
+.top{
+  width: 290rpx;
+  height: 290rpx;
+  margin: 80rpx 230rpx 100rpx;
+}
+text{
+  display: flex;
+  justify-content: center;
+  color: #78bac5;
+  font-size: 50rpx;
+}
+.startWork {
+  margin-top: 150rpx;
+  width: 350rpx;
+  background: #c9e8ed;
+  color: #78bac5;
+  border-style: none;
+  border-radius: 50rpx;
+}
+.upload {
+  margin-top: 50rpx;
+  width: 350rpx;
+  background: #c9e8ed;
+  color: #78bac5;
+  border-style: none;
+  border-radius: 50rpx;
+}
+button::after{
+  border: none; 
+}

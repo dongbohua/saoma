@@ -1,0 +1,6 @@
+<view class='main'>
+  <button class="btn" bindtap='dialogBox' >上传已扫描名单</button>
+  <view class='tx1'>上传后将自动删除本地文件</view>
+  <button class="btn" bindtap='click' >返回上一页</button>
+  <view class='tx2'>管理员{{userName}}</view>
+</view>

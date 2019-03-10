@@ -1,0 +1,8 @@
+<image class="top" src="image/success.png">
+</image>
+<text>绑定成功</text>
+<text>账号登录有效时间：</text>
+<text>{{motto}}</text>
+<button class='startWork' bindtap="click">入场扫码</button>
+<button class='upload' bindtap="click0">出场扫码</button>
+<button class="upload" bindtap="click1">开始上传</button>

@@ -1,0 +1,14 @@
+{
+  "pages":[    
+    "pages/login/login",
+    "pages/scanning/scanning",
+    "pages/success/success",
+    "pages/finish/finish"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "琴理快签",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,15 @@
+<image class="login_top"  src='images/images1.gif'>
+</image>
+<text class="identity">管理员</text>
+<view class="login_container">
+  <view class="login_view">
+    <input class="login_text" placeholder="输入登录账号" placeholder-style="color:#9e9e9e;" bindinput="listenerUsernameInput" placeholder-style="color:#9e9e9e;"/>
+  </view>
+  <view class="login_view">
+    <input class="login_text" placeholder="输入密码" password="true" bindinput="listenerPasswordInput" placeholder-style="color:#9e9e9e;"/>
+  </view>
+  <view>
+    <button class="login_button" bindtap="loginAction">登录</button>
+  </view>
+</view>
+<text class="qinli">琴理工作室</text>
